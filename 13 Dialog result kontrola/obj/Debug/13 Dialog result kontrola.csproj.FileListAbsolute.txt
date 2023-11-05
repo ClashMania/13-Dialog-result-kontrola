@@ -1,0 +1,11 @@
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\obj\Debug\13 Dialog result kontrola.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\obj\Debug\13 Dialog result kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\obj\Debug\_13_Dialog_result_kontrola.Form1.resources
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\obj\Debug\_13_Dialog_result_kontrola.Properties.Resources.resources
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\obj\Debug\13 Dialog result kontrola.csproj.GenerateResource.cache
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\obj\Debug\13 Dialog result kontrola.csproj.CoreCompileInputs.cache
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\bin\Debug\13 Dialog result kontrola.exe.config
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\bin\Debug\13 Dialog result kontrola.exe
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\bin\Debug\13 Dialog result kontrola.pdb
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\obj\Debug\13 Dialog result kontrola.exe
+C:\Users\heist\Documents\Code\13 Dialog result kontrola\obj\Debug\13 Dialog result kontrola.pdb
